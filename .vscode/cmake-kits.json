@@ -1,0 +1,6 @@
+[
+    {
+        "name": "Raspberry PI Zero2",
+        "toolchainFile": "${workspaceFolder}/cmake/aarch64-rpi2zero-linux-gnu.cmake"
+    }
+]

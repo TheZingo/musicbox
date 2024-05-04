@@ -1,0 +1,14 @@
+[Unit]
+Description=Musicbox
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+WorkingDirectory=/home/music
+ExecStart=/home/music/MusicBox
+
+[Install]
+WantedBy=default.target

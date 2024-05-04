@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="100%" height="100%"><svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.857824,0,0,0.857824,-731.025,-996.314)">
+        <path d="M1144.86,1526.72L1144.86,1607.16L864.41,1536L864.41,1455.56L1144.86,1526.72Z"></path>
+    </g>
+    <g transform="matrix(-0.857824,0,0,0.857824,1243.03,-996.314)">
+        <path d="M1145.07,1526.72L1145.07,1607.16L864.41,1536L864.41,1455.56L1145.07,1526.72Z"></path>
+    </g>
+    <g transform="matrix(0.857824,0,0,0.857824,-731.025,-996.314)">
+        <path d="M864.41,1445.86L1150.54,1517.34L1436.82,1445.86L1150.54,1396.08L864.41,1445.86Z"></path>
+    </g>
+    <g transform="matrix(1.44676,0,0,0.857824,-1416.16,-994.423)">
+        <ellipse cx="1155.79" cy="1448.93" rx="56.98" ry="27.983" style="fill:none;stroke:white;stroke-width:8.98px;"></ellipse>
+    </g>
+    <g transform="matrix(5.25266e-17,-0.857824,0.857824,5.25266e-17,-955.551,1199.11)">
+        <path d="M1165.33,1433.84L1165.33,1473.87L1103.74,1412.28L1165.33,1350.69L1165.33,1390.72L1246.71,1390.72L1246.71,1433.84L1165.33,1433.84Z" style="fill:white;stroke:black;stroke-width:12.44px;"></path>
+    </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
+</style></svg>
